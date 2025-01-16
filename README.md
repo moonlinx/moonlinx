@@ -15,5 +15,5 @@ I am a passionate Information Tech / Finance student at NOVA, driven by a curios
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonlinx/moonlinx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonlinx/moonlinx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/moonlinx/About-Me/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/moonlinx/moonlinx/output/github-snake.svg" />
 </picture>
