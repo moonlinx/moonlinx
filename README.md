@@ -1,4 +1,4 @@
-# Hello World!, I'm Devin, a Cloud Engineer
+# Hello World! I'm Devin, a Cloud Engineer
 
 I am a passionate Information Tech / Finance student at NOVA, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
