@@ -1,8 +1,8 @@
-# Hello World! I'm Devin, a Cloud Engineer
+# Hello World! I'm Devin, a Cloud Security Engineer
 
-I am a passionate Information Tech / Finance student at NOVA, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a former Solutions Architect / Cloud Security Engineer and current passionate Information Tech / Finance student at NOVA, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-🛜 Currently working as a Cloud Engineer<br>👨🏼‍🎓 I'm studying Information Technology / Finance at NOVA<br>👨🏼‍💻 Currently working on my Home Lab<br>🎬 Might start a YouTube channel. Stick around and find out
+🛜 Currently working as a (I will let you know when I get back in the game lol) <br>👨🏼‍🎓 I'm studying Information Technology / Finance at NOVA<br>👨🏼‍💻 Currently working on my Home Lab<br>🎬 Might start a YouTube channel. Stick around and find out
 
 # 💻 Tech Stack
 
@@ -13,6 +13,7 @@ I am a passionate Information Tech / Finance student at NOVA, driven by a curios
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moonlinx&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlinx&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonlinx/moonlinx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonlinx/moonlinx/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/moonlinx/moonlinx/output/github-snake.svg" />
