@@ -2,7 +2,7 @@
 
 I am a former Solutions Architect / Cloud Security Engineer and current passionate Information Tech / Finance student at NOVA, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-🛜 Currently working as a (I will let you know when I get back in the game lol) <br>👨🏼‍🎓 I'm studying Information Technology / Finance at NOVA<br>👨🏼‍💻 Currently working on my Home Lab<br>🎬 Might start a YouTube channel. Stick around and find out
+🛜 Currently working as a Linux Systems Administrator <br>👨🏼‍🎓 I'm studying Information Technology / Finance at NOVA<br>👨🏼‍💻 Currently working on my Home Lab<br>
 
 # 💻 Tech Stack
 
